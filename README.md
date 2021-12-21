@@ -3,7 +3,7 @@ Backend for a ecommerce application created in Node.js.
 
 ## Features
 
-- CRUD operation on Users,Orders,Order-Item,Category and Product
+- CRUD operation on Users, Orders, Order-Item, Category and Product
 - Login process is secured using JWT.
 
 ## Tech
