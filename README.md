@@ -1,5 +1,5 @@
 # E-Commerce Backend
-Backend for a ecommerce application created in Node.js.
+Backend for an ecommerce application created in Node.js.
 
 ## Features
 
