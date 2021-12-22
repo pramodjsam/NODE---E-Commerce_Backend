@@ -49,9 +49,9 @@ This application uses Node.js + Express for fast developing.
 Make a change in your file and instantaneously see your updates!
 
 The application requires a few environment variables such as
--API_URL - The API endpoint URL
--CONNECTION_STRING -  Cloud database URI
--SECRET - JWT secret
+- [API_URL] - The API endpoint URL
+- [CONNECTION_STRING] -  Cloud database URI
+- [SECRET] - JWT secret
 
 Open your favorite Terminal and run these commands.
 
